@@ -1,0 +1,10 @@
+command_id: 750.758.222021|e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    TOYOTA_TID_1: RL
+    TOYOTA_TID_2: RR
+    TOYOTA_TID_3: FL
+    TOYOTA_TID_4: FR
+  response: |-
+    7582A10086220210304
+    7582A21010200000000

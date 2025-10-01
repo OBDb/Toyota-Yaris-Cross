@@ -1,0 +1,10 @@
+command_id: 7B0.7B8.2121
+test_cases:
+- expected_values:
+    TOYOTA_VSS: 0
+    TOYOTA_VSS_V3: 0
+  response: 7B803612100
+- expected_values:
+    TOYOTA_VSS: 40.5
+    TOYOTA_VSS_V3: 38.4
+  response: 7B80361211E

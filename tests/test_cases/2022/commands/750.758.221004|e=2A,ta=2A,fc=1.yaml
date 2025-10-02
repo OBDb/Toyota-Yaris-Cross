@@ -1,6 +1,15 @@
 command_id: 750.758.221004|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
+    TOYOTA_TT_2: 16
+    TOYOTA_TT_FL_V3: -40
+    TOYOTA_TT_FR_V2: 16
+    TOYOTA_TT_FR_V3: 16
+    TOYOTA_TT_RL_V3: -40
+  response: |-
+    7582A10086210040038
+    7582A21000000000000
+- expected_values:
     TOYOTA_TT_1: 12
     TOYOTA_TT_2: 11
     TOYOTA_TT_3: 12

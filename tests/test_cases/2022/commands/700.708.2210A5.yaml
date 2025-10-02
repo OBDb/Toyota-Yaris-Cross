@@ -4,7 +4,7 @@ test_cases:
     TOYOTA_MISFIRE_COUNT: 0
   response: |-
     70810086210A5000000
-    7082100470000000000
+    7082100380000000000
 - expected_values:
     TOYOTA_MISFIRE_COUNT: 0
   response: |-

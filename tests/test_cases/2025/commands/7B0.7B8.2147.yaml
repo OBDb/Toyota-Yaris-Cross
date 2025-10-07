@@ -3,9 +3,9 @@ test_cases:
 - expected_values:
     TOYOTA_LAT_G: 0
     TOYOTA_LNG_G: 0
-    TOYOTA_STEER_ANGLE: -24.6
-    TOYOTA_YAW_RATE: -1
-  response: 7B807614700007F7F0A
+    TOYOTA_STEER_ANGLE: 279.8
+    TOYOTA_YAW_RATE: -9
+  response: 7B80761470000778AEE
 - expected_values:
     TOYOTA_LAT_G: 0
     TOYOTA_LNG_G: 0.12
@@ -21,9 +21,9 @@ test_cases:
 - expected_values:
     TOYOTA_LAT_G: 0.02
     TOYOTA_LNG_G: 0.04
-    TOYOTA_STEER_ANGLE: 561.9
-    TOYOTA_YAW_RATE: 8
-  response: 7B807614701028895F3
+    TOYOTA_STEER_ANGLE: 562
+    TOYOTA_YAW_RATE: 4
+  response: 7B807614701028495F4
 - expected_values:
     TOYOTA_LAT_G: 0.12
     TOYOTA_LNG_G: -0.04
@@ -45,9 +45,9 @@ test_cases:
 - expected_values:
     TOYOTA_LAT_G: -0.02
     TOYOTA_LNG_G: 0
-    TOYOTA_STEER_ANGLE: -137.3
-    TOYOTA_YAW_RATE: -8
-  response: 7B8076147FF00787AA3
+    TOYOTA_STEER_ANGLE: -159.9
+    TOYOTA_YAW_RATE: -9
+  response: 7B8076147FF007779C1
 - expected_values:
     TOYOTA_LAT_G: -0.02
     TOYOTA_LNG_G: -0.08

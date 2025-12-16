@@ -1,0 +1,6 @@
+command_id: 700.708.221089
+test_cases:
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 50.83645
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_VALUE_1: 50.83645
+  response: 70805621089208B

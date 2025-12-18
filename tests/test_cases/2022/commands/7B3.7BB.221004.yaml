@@ -7,8 +7,8 @@ test_cases:
     TOYOTA_STEERING_ANGLE_V2: 0
   response: 7BB066210040000FF
 - expected_values:
-    TOYOTA_STEERING_ANGLE_V2: -378
-  response: 7BB06621004FF04F9
+    TOYOTA_STEERING_ANGLE_V2: -379.5
+  response: 7BB06621004FF03FB
 - expected_values:
     TOYOTA_STEERING_ANGLE_V2: -1.5
   response: 7BB06621004FFFF00

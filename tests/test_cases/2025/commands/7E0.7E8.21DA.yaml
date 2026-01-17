@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.21DA
+test_cases:
+- expected_values:
+    TOYOTA_GEAR_V3: 5
+  response: 7E80461DA0501

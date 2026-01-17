@@ -1,0 +1,38 @@
+command_id: 700.708.2210A5
+test_cases:
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000000
+    70821003A0000000000
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000000
+    7082100730000000000
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000027
+    7082100510000000000
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000040
+    70821005F0000000000
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A50000FD
+    70821005A0000000000
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A500011B
+    7082100780000000000
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
+  response: |-
+    7EA0441310DFF
+    70810086210A50000AA
+    7082100720000000000

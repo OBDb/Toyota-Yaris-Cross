@@ -1,20 +1,32 @@
 command_id: 7B0.7B8.2106
 test_cases:
 - expected_values:
-    TOYOTA_YAW_1: 0
-    TOYOTA_YAW_2: -1
-    TOYOTA_YAW_RATE: 0
-    TOYOTA_YAW_RATE2: -1
-  response: 7B8056106807FFB
+    TOYOTA_YAW_1: -20
+    TOYOTA_YAW_2: -19
+    TOYOTA_YAW_RATE: -20
+    TOYOTA_YAW_RATE2: -19
+  response: 7B80561066C6D08
+- expected_values:
+    TOYOTA_YAW_1: -7
+    TOYOTA_YAW_2: 22
+    TOYOTA_YAW_RATE: -7
+    TOYOTA_YAW_RATE2: 22
+  response: 7B8056106799624
 - expected_values:
     TOYOTA_YAW_1: 0
     TOYOTA_YAW_2: -1
     TOYOTA_YAW_RATE: 0
     TOYOTA_YAW_RATE2: -1
-  response: 7B8056106807FFD
+  response: 7B8056106807FFF
 - expected_values:
     TOYOTA_YAW_1: 0
     TOYOTA_YAW_2: 0
     TOYOTA_YAW_RATE: 0
     TOYOTA_YAW_RATE2: 0
-  response: 7B8056106808008
+  response: 7B8056106808000
+- expected_values:
+    TOYOTA_YAW_1: 16
+    TOYOTA_YAW_2: 21
+    TOYOTA_YAW_RATE: 16
+    TOYOTA_YAW_RATE2: 21
+  response: 7B80561069095FD

@@ -1,13 +1,9 @@
 command_id: 7D2.7DA.22106C|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_HVBAT_SOC_MAX: 67.5
-    TOYOTA_HVBAT_SOC_MIN: 36.5
-  response: 7DA0662106C4B8749
-- expected_values:
-    TOYOTA_HVBAT_SOC_MAX: 41.5
-    TOYOTA_HVBAT_SOC_MIN: 37.5
-  response: 7DA0662106C53534B
+    TOYOTA_HVBAT_SOC_MAX: 41
+    TOYOTA_HVBAT_SOC_MIN: 36
+  response: 7DA0662106C4A5248
 - expected_values:
     TOYOTA_HVBAT_SOC_MAX: 52.5
     TOYOTA_HVBAT_SOC_MIN: 32

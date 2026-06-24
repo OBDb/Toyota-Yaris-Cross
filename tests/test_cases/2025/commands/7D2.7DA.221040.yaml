@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221040
 test_cases:
 - expected_values:
-    TOYOTA_TRANSAXLE_OIL_T: 62
-  response: 7DA066210409D7066
+    TOYOTA_TRANSAXLE_OIL_T: 64
+  response: 7DA066210409B1068
 - expected_values:
     TOYOTA_TRANSAXLE_OIL_T: 61
   response: 7DA066210409E0065

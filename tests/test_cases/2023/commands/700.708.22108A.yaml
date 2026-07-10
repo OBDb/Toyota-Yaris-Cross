@@ -1,0 +1,7 @@
+command_id: 700.708.22108A
+test_cases:
+- expected_values:
+    TOYOTA_VVT_IE_DUTY_RATIO_1: 0
+    TOYOTA_VVT_IE_DUTY_RATIO_BANK_1: 0
+    TOYOTA_VVT_IE_MOTOR_DIRECTION_FORWARD_1: 0
+  response: 7080562108A8000

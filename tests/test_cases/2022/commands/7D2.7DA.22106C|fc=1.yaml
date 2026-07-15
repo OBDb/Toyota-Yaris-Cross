@@ -14,8 +14,8 @@ test_cases:
   response: 7DA0662106C55552A
 - expected_values:
     TOYOTA_HVBAT_SOC_MAX: 85.5
-    TOYOTA_HVBAT_SOC_MIN: 39
-  response: 7DA0662106C89AB4E
+    TOYOTA_HVBAT_SOC_MIN: 28.5
+  response: 7DA0662106C69AB39
 - expected_values:
     TOYOTA_HVBAT_SOC_MAX: 79.5
     TOYOTA_HVBAT_SOC_MIN: 76.5

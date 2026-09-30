@@ -1,5 +1,5 @@
 { "commands": [
-{ "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "0103"}, "freq": 30,
+{ "hdr": "700", "rax": "708", "cmd": {"22": "0103"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YARIS_CROSS_ENG_ODO", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
@@ -914,7 +914,7 @@
     {"id": "YARIS_CROSS_HVBAT_SOC_MAX", "path": "Battery", "fmt": {"bix": 8,  "len": 8, "max": 100, "div": 2, "unit": "percent" }, "name": "HV battery charge, maximum"},
     {"id": "YARIS_CROSS_HVBAT_SOC_MIN", "path": "Battery", "fmt": {"bix": 16, "len": 8, "max": 100, "div": 2, "unit": "percent" }, "name": "HV battery charge, minimum"}
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "106E"}, "freq": 1, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "106E"}, "freq": 1, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YARIS_CROSS_AC_POWER_CONS", "path": "Engine", "fmt": { "len": 8, "max": 12.75, "div": 20, "unit": "kilowatts" }, "name": "Air conditioning power consumption"}
   ]},

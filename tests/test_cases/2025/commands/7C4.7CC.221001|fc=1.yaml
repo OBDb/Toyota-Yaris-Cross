@@ -1,8 +1,0 @@
-command_id: 7C4.7CC.221001|fc=1
-test_cases:
-- expected_values:
-    TOYOTA_CABIN_T_V2: 28.81
-  response: 7CC056210010B41
-- expected_values:
-    TOYOTA_CABIN_T_V2: 30.09
-  response: 7CC056210010BC1

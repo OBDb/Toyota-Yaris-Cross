@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.221FA6|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_ODO_1FA6: 9753.1
+  response: 7DA07621FA600017CFB
+- expected_values:
+    TOYOTA_ODO_1FA6: 9753.4
+  response: 7DA07621FA600017CFE
+- expected_values:
+    TOYOTA_ODO_1FA6: 9753.8
+  response: 7DA07621FA600017D02

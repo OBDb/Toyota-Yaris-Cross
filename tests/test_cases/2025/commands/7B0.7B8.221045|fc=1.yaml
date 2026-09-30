@@ -1,0 +1,5 @@
+command_id: 7B0.7B8.221045|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_EPB: APPLIED
+  response: 7B8056210450000

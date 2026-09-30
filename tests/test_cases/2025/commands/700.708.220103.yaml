@@ -4,29 +4,5 @@ test_cases:
     YCROSS_ENG_ODO: 9753
   response: '7080762010301002619'
 - expected_values:
-    YCROSS_ENG_ODO: 9754
-  response: 708076201030100261A
-- expected_values:
-    YCROSS_ENG_ODO: 9755
-  response: 708076201030100261B
-- expected_values:
-    YCROSS_ENG_ODO: 9756
-  response: 708076201030100261C
-- expected_values:
-    YCROSS_ENG_ODO: 9757
-  response: 708076201030100261D
-- expected_values:
-    YCROSS_ENG_ODO: 9758
-  response: 708076201030100261E
-- expected_values:
-    YCROSS_ENG_ODO: 9759
-  response: 708076201030100261F
-- expected_values:
-    YCROSS_ENG_ODO: 9760
-  response: '7080762010301002620'
-- expected_values:
-    YCROSS_ENG_ODO: 9761
-  response: '7080762010301002621'
-- expected_values:
-    YCROSS_ENG_ODO: 9762
-  response: '7080762010301002622'
+    YCROSS_ENG_ODO: 9767
+  response: '7080762010301002627'

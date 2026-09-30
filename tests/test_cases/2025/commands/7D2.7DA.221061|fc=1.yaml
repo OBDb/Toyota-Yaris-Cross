@@ -1,11 +1,11 @@
 command_id: 7D2.7DA.221061|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_SHIFT: P
+    YCROSS_SHIFT: P
   response: 7DA056210610001
 - expected_values:
-    TOYOTA_SHIFT: R
+    YCROSS_SHIFT: R
   response: 7DA056210610202
 - expected_values:
-    TOYOTA_SHIFT: D
+    YCROSS_SHIFT: D
   response: 7DA056210610608

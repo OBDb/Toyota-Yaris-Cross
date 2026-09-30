@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F5B|fc=1,f=2022-
+test_cases:
+- expected_values:
+    YCROSS_SOC: 23.92157
+  response: 7DA04621F5B3D
+- expected_values:
+    YCROSS_SOC: 84.31373
+  response: 7DA04621F5BD7

@@ -1,5 +1,5 @@
 command_id: 7C4.7CC.221036|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_HVAC_SET_RAW: 13
+    YCROSS_HVAC_SET_RAW: 13
   response: 7CC046210360D

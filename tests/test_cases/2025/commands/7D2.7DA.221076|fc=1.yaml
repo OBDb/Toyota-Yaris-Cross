@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221076|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_READY: 1
+    YCROSS_READY: 1
   response: 7DA056210760F03
 - expected_values:
-    TOYOTA_READY: 1
+    YCROSS_READY: 1
   response: 7DA056210760F07

@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F46|f=2022-
+test_cases:
+- expected_values:
+    YCROSS_AAT_7D2: 2
+  response: 7DA04621F462A
+- expected_values:
+    YCROSS_AAT_7D2: 48
+  response: 7DA04621F4658

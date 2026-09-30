@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     YCROSS_AAT_7C4_V2: 26.54
   response: 7CC056210020A5E
+- expected_values:
+    YCROSS_AAT_7C4_V2: 26.67
+  response: 7CC056210020A6B

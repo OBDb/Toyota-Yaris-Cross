@@ -13,5 +13,8 @@ test_cases:
     YCROSS_BRAKE_STROKE: 5
   response: 7B80462104C05
 - expected_values:
+    YCROSS_BRAKE_STROKE: 10
+  response: 7B80462104C0A
+- expected_values:
     YCROSS_BRAKE_STROKE: 13
   response: 7B80462104C0D

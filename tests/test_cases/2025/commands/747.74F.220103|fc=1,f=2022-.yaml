@@ -1,14 +1,14 @@
 command_id: 747.74F.220103|fc=1,f=2022-
 test_cases:
 - expected_values:
-    YARIS_CROSS_ODO_V6: 3786
+    YCROSS_ODO_V6: 3786
   response: 74F0762010301000ECA
 - expected_values:
-    YARIS_CROSS_ODO_V6: 3839
+    YCROSS_ODO_V6: 3839
   response: 74F0762010301000EFF
 - expected_values:
-    YARIS_CROSS_ODO_V6: 3840
+    YCROSS_ODO_V6: 3840
   response: 74F0762010301000F00
 - expected_values:
-    YARIS_CROSS_ODO_V6: 9753
+    YCROSS_ODO_V6: 9753
   response: 74F0762010301002619

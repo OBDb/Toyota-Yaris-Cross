@@ -1,6 +1,6 @@
 command_id: 700.708.221041
 test_cases:
 - expected_values:
-    YARIS_CROSS_ECT_IGN: 13.125
-    YARIS_CROSS_ECT_INIT: 12.5
+    YCROSS_ECT_IGN: 13.125
+    YCROSS_ECT_INIT: 12.5
   response: '708056210415554'

@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F05|f=2022-
 test_cases:
 - expected_values:
-    YARIS_CROSS_COOL_T: 19
+    YCROSS_COOL_T: 19
   response: 7DA04621F053B
 - expected_values:
-    YARIS_CROSS_COOL_T: 94
+    YCROSS_COOL_T: 94
   response: 7DA04621F0586

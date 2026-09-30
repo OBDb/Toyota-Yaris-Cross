@@ -1,10 +1,10 @@
 command_id: 750.758.221004|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    YARIS_CROSS_TT_1: 6
-    YARIS_CROSS_TT_2: 6
-    YARIS_CROSS_TT_3: 6
-    YARIS_CROSS_TT_4: 6
+    YCROSS_TT_1: 6
+    YCROSS_TT_2: 6
+    YCROSS_TT_3: 6
+    YCROSS_TT_4: 6
   response: |-
     7582A10086210042E2E
     7582A212E2E00000000

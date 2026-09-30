@@ -1,14 +1,14 @@
 command_id: 7D2.7DA.221040|f=2022-
 test_cases:
 - expected_values:
-    YARIS_CROSS_TRANSAXLE_OIL_T: 77
+    YCROSS_TRANSAXLE_OIL_T: 77
   response: 7DA066210408B2075
 - expected_values:
-    YARIS_CROSS_TRANSAXLE_OIL_T: 76
+    YCROSS_TRANSAXLE_OIL_T: 76
   response: 7DA066210408BF074
 - expected_values:
-    YARIS_CROSS_TRANSAXLE_OIL_T: 74
+    YCROSS_TRANSAXLE_OIL_T: 74
   response: 7DA066210408E0072
 - expected_values:
-    YARIS_CROSS_TRANSAXLE_OIL_T: 7
+    YCROSS_TRANSAXLE_OIL_T: 7
   response: 7DA06621040D9302F

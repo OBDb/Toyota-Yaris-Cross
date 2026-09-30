@@ -1,27 +1,27 @@
 command_id: 7E0.7E8.2121
 test_cases:
 - expected_values:
-    YARIS_CROSS_CC_S: 0
+    YCROSS_CC_S: 0
   response: |-
     7E81009612100000040
     7E82100000000000000
 - expected_values:
-    YARIS_CROSS_CC_S: 0
+    YCROSS_CC_S: 0
   response: |-
     7E81009612100000040
     7E82100F80000000000
 - expected_values:
-    YARIS_CROSS_CC_S: 0
+    YCROSS_CC_S: 0
   response: |-
     7E81009612100000040
     7E82100FF0000000000
 - expected_values:
-    YARIS_CROSS_CC_S: 0
+    YCROSS_CC_S: 0
   response: |-
     7E810096121000001C0
     7E82100000000000000
 - expected_values:
-    YARIS_CROSS_CC_S: 0
+    YCROSS_CC_S: 0
   response: |-
     7E810096121000081C0
     7E82100000000000000

@@ -1,26 +1,26 @@
 command_id: 7B0.7B8.2121
 test_cases:
 - expected_values:
-    YARIS_CROSS_VSS: 0
+    YCROSS_VSS: 0
   response: 7B803612100
 - expected_values:
-    YARIS_CROSS_VSS: 5.4
+    YCROSS_VSS: 5.4
   response: 7B803612104
 - expected_values:
-    YARIS_CROSS_VSS: 10.8
+    YCROSS_VSS: 10.8
   response: 7B803612108
 - expected_values:
-    YARIS_CROSS_VSS: 16.2
+    YCROSS_VSS: 16.2
   response: 7B80361210C
 - expected_values:
-    YARIS_CROSS_VSS: 17.55
+    YCROSS_VSS: 17.55
   response: 7B80361210D
 - expected_values:
-    YARIS_CROSS_VSS: 18.9
+    YCROSS_VSS: 18.9
   response: 7B80361210E
 - expected_values:
-    YARIS_CROSS_VSS: 35.1
+    YCROSS_VSS: 35.1
   response: 7B80361211A
 - expected_values:
-    YARIS_CROSS_VSS: 39.15
+    YCROSS_VSS: 39.15
   response: 7B80361211D

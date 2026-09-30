@@ -1,32 +1,32 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9753
+    YCROSS_ENG_ODO: 9753
   response: '7080762010301002619'
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9754
+    YCROSS_ENG_ODO: 9754
   response: 708076201030100261A
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9755
+    YCROSS_ENG_ODO: 9755
   response: 708076201030100261B
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9756
+    YCROSS_ENG_ODO: 9756
   response: 708076201030100261C
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9757
+    YCROSS_ENG_ODO: 9757
   response: 708076201030100261D
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9758
+    YCROSS_ENG_ODO: 9758
   response: 708076201030100261E
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9759
+    YCROSS_ENG_ODO: 9759
   response: 708076201030100261F
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9760
+    YCROSS_ENG_ODO: 9760
   response: '7080762010301002620'
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9761
+    YCROSS_ENG_ODO: 9761
   response: '7080762010301002621'
 - expected_values:
-    YARIS_CROSS_ENG_ODO: 9762
+    YCROSS_ENG_ODO: 9762
   response: '7080762010301002622'

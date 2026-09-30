@@ -1,8 +1,8 @@
 command_id: 7B0.7B8.2121
 test_cases:
 - expected_values:
-    YARIS_CROSS_VSS: 0
+    YCROSS_VSS: 0
   response: 7B803612100
 - expected_values:
-    YARIS_CROSS_VSS: 139.05
+    YCROSS_VSS: 139.05
   response: 7B803612167

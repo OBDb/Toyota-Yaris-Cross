@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.2129
 test_cases:
 - expected_values:
-    YARIS_CROSS_FLI_VOL: 1.71731
+    YCROSS_FLI_VOL: 1.71731
   response: 7C80361290D
 - expected_values:
-    YARIS_CROSS_FLI_VOL: 9.90753
+    YCROSS_FLI_VOL: 9.90753
   response: 7C80361294B

@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.221021
 test_cases:
 - expected_values:
-    YARIS_CROSS_BATTERY_VOLTAGE_7C0: 13.4
+    YCROSS_BATTERY_VOLTAGE_7C0: 13.4
   response: 7C80462102186
 - expected_values:
-    YARIS_CROSS_BATTERY_VOLTAGE_7C0: 14.1
+    YCROSS_BATTERY_VOLTAGE_7C0: 14.1
   response: 7C8046210218D

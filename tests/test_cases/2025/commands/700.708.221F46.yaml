@@ -1,11 +1,11 @@
 command_id: 700.708.221F46
 test_cases:
 - expected_values:
-    YARIS_CROSS_AMBIENT_T: 4
+    YCROSS_AMBIENT_T: 4
   response: 70804621F462C
 - expected_values:
-    YARIS_CROSS_AMBIENT_T: 55
+    YCROSS_AMBIENT_T: 55
   response: 70804621F465F
 - expected_values:
-    YARIS_CROSS_AMBIENT_T: 22
+    YCROSS_AMBIENT_T: 22
   response: "> 700.708.221F46\n708 04 62 1F 46 3E 00 00 00 "

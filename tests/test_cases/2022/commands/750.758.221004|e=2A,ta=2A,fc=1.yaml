@@ -1,33 +1,33 @@
 command_id: 750.758.221004|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    YARIS_CROSS_TT_4: 12
+    YCROSS_TT_4: 12
   response: |-
     7582A10086210040000
     7582A21003400000000
 - expected_values:
-    YARIS_CROSS_TT_3: 10
+    YCROSS_TT_3: 10
   response: |-
     7582A10086210040000
     7582A21320000000000
 - expected_values:
-    YARIS_CROSS_TT_2: 10
+    YCROSS_TT_2: 10
   response: |-
     7582A10086210040032
     7582A21000000000000
 - expected_values:
-    YARIS_CROSS_TT_1: 8
-    YARIS_CROSS_TT_2: 8
-    YARIS_CROSS_TT_3: 7
-    YARIS_CROSS_TT_4: 7
+    YCROSS_TT_1: 8
+    YCROSS_TT_2: 8
+    YCROSS_TT_3: 7
+    YCROSS_TT_4: 7
   response: |-
     7582A10086210043030
     7582A212F2F00000000
 - expected_values:
-    YARIS_CROSS_TT_1: 28
-    YARIS_CROSS_TT_2: 28
-    YARIS_CROSS_TT_3: 30
-    YARIS_CROSS_TT_4: 30
+    YCROSS_TT_1: 28
+    YCROSS_TT_2: 28
+    YCROSS_TT_3: 30
+    YCROSS_TT_4: 30
   response: |-
     7582A10086210044444
     7582A21464600000000

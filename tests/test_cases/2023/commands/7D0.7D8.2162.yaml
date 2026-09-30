@@ -1,5 +1,5 @@
 command_id: 7D0.7D8.2162
 test_cases:
 - expected_values:
-    YARIS_CROSS_PARKING_BRAKE: 'ON'
+    YCROSS_PARKING_BRAKE: 'ON'
   response: 7D80561621B0000

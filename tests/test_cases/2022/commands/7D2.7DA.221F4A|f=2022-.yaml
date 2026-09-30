@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F4A|f=2022-
+test_cases:
+- expected_values:
+    YARIS_CROSS_ACC_PEDAL_POS_2: 31.76471
+  response: 7DA04621F4A51
+- expected_values:
+    YARIS_CROSS_ACC_PEDAL_POS_2: 89.80392
+  response: 7DA04621F4AE5

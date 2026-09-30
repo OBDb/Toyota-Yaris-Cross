@@ -1,0 +1,5 @@
+command_id: 7D2.7DA.2215E5|fc=1
+test_cases:
+- expected_values:
+    YARIS_CROSS_12V_CAP: 30.5
+  response: 7DA046215E53D

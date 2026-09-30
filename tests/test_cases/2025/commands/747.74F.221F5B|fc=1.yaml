@@ -1,0 +1,8 @@
+command_id: 747.74F.221F5B|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_SOC_747: 36.07843
+  response: 74F04621F5B5C
+- expected_values:
+    TOYOTA_SOC_747: 60
+  response: 74F04621F5B99

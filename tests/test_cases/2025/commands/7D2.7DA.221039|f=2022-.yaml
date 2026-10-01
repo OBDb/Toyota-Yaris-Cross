@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221039|f=2022-
+test_cases:
+- expected_values:
+    YCROSS_FRONT_REAR_MOTOR_TQ: -28.001
+  response: 7DA076210392CCD129F
+- expected_values:
+    YCROSS_FRONT_REAR_MOTOR_TQ: -27.969
+  response: 7DA076210392CCD12BF

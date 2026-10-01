@@ -24,11 +24,6 @@ test_cases:
     YCROSS_KEY_CYCLE: 496
   response: |-
     7DA100A62010201F000
-    7DA210086A701000000
-- expected_values:
-    YCROSS_KEY_CYCLE: 496
-  response: |-
-    7DA100A62010201F000
     7DA2110024D01000000
 - expected_values:
     YCROSS_KEY_CYCLE: 496
@@ -45,3 +40,8 @@ test_cases:
   response: |-
     7DA100A62010201F000
     7DA21302A0C01000000
+- expected_values:
+    YCROSS_KEY_CYCLE: 497
+  response: |-
+    7DA100A62010201F100
+    7DA2100837401000000

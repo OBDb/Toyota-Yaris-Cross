@@ -405,7 +405,7 @@
   "signals": [
     {"id": "YCROSS_ODO_V6", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "747", "rax": "74F", "dbg": true, "cmd": {"22": "1814"}, "freq": 5, "filter": { "from": 2022 },
+{ "hdr": "747", "rax": "74F", "cmd": {"22": "1814"}, "freq": 5, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_BAT_T_01", "path": "Battery", "fmt": {            "len": 16, "max": 205, "min": -50, "mul": 19531, "div": 5000000, "add": -50, "unit": "celsius" }, "name": "Battery temperature 01"},
     {"id": "YCROSS_BAT_T_02", "path": "Battery", "fmt": {"bix": 16,  "len": 16, "max": 205, "min": -50, "mul": 19531, "div": 5000000, "add": -50, "unit": "celsius" }, "name": "Battery temperature 02"},
@@ -901,7 +901,7 @@
   "signals": [
     {"id": "YCROSS_PARKING_BRAKE", "path": "Control", "fmt": {"bix": 6, "len": 1, "max": 1, "unit": "offon" }, "name": "Parking brake"}
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "0102"}, "freq": 1, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "0102"}, "freq": 1, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_KEY_CYCLE", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Key cycle"}
   ]},
@@ -909,7 +909,7 @@
   "signals": [
     {"id": "YCROSS_ODO_V2_V2", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "1002"}, "freq": 5, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "1002"}, "freq": 5, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_AUX_BAT_V", "path": "Battery", "fmt": { "len": 16, "max": 79.95, "mul": 61, "div": 50000, "unit": "volts" }, "name": "Aux battery voltage"}
   ]},
@@ -928,7 +928,7 @@
         }}
     }
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "1039"}, "freq": 0.25, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "1039"}, "freq": 0.25, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_FRONT_REAR_MOTOR_TQ", "path": "Engine", "fmt": {"bix": 16, "len": 16, "max": 32.76, "min": -32.76, "div": 1000, "add": -32.768, "unit": "scalar" }, "name": "Front/rear motor torque ratio"}
   ]},
@@ -950,7 +950,7 @@
         }}
     }
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "1069"}, "freq": 0.25, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "1069"}, "freq": 0.25, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_MOTOR_REGENERATIVE",       "path": "Engine", "fmt": {           "len": 16, "max": 4095, "min": -4096, "div": 8, "add": -4096, "unit": "kilowatts" }, "name": "Motor regenerative brake torque, requested"},
     {"id": "YCROSS_MOTOR_REGENERATIVE_BREAK", "path": "Engine", "fmt": {"bix": 16, "len": 16, "max": 4095, "min": -4096, "div": 8, "add": -4096, "unit": "kilowatts" }, "name": "Motor regenerative brake torque"}
@@ -980,7 +980,7 @@
   "signals": [
     {"id": "YCROSS_READY", "path": "Drivetrain", "fmt": {"bix": 15, "len": 1, "max": 1, "unit": "noyes" }, "name": "Ready to drive"}
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "107E"}, "freq": 5, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "107E"}, "freq": 5, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_12V_BAT_V_BEFORE_SMR", "path": "Battery", "fmt": { "len": 8, "max": 11.56, "mul": 61, "div": 50000, "add": 11.25, "unit": "volts" }, "name": "12V battery voltage before system main relay"}
   ]},
@@ -998,7 +998,7 @@
   "signals": [
     {"id": "YCROSS_GEN_INVERTER_T", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Generator inverter temperature"}
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "10A5"}, "freq": 5, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "10A5"}, "freq": 5, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_MOTOR_INVERTER_T",     "path": "Engine", "fmt": {           "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Motor inverter temperature"},
     {"id": "YCROSS_MOTOR_INVERTER_T_ON",  "path": "Engine", "fmt": {"bix": 8,  "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Motor inverter temperature after ignition on"},
@@ -1009,18 +1009,18 @@
     {"id": "YCROSS_RM_INVRT_COOL_T", "path": "Engine", "fmt": {           "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Rear motor inverter, coolant temperature"},
     {"id": "YCROSS_M_INVRT_MAX_T",   "path": "Engine", "fmt": {"bix": 16, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Motor inverter, maximum temperature"}
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "10A7"}, "freq": 5, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "10A7"}, "freq": 5, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_BOOSTING_CONV_T_HI", "path": "Transmission", "fmt": {          "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Boosting converter temperature, upper"},
     {"id": "YCROSS_BOOSTING_CONV_T_LO", "path": "Transmission", "fmt": {"bix": 8, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Boosting converter temperature, lower"}
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "10A8"}, "freq": 5, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "10A8"}, "freq": 5, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_GEN_INVERTER_T_7D2",      "path": "Engine", "fmt": {           "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Generator inverter temperature"},
     {"id": "YCROSS_GEN_INVERTER_T_AFTER_ON", "path": "Engine", "fmt": {"bix": 8,  "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Generator inverter temperature after ignition on"},
     {"id": "YCROSS_MAX_GEN_INVERTER_T",      "path": "Engine", "fmt": {"bix": 16, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Maximum generator inverter temperature"}
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "10B0"}, "freq": 1, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "10B0"}, "freq": 1, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_VL_V_BEFORE_BOOSTING", "path": "Battery", "fmt": {           "len": 16, "max": 32767, "div": 2, "unit": "volts" }, "name": "Vl-voltage before boosting"},
     {"id": "YCROSS_VH_V_AFTER_BOOSTING",  "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 32767, "div": 2, "unit": "volts" }, "name": "Vh-voltage after boosting"}
@@ -1102,7 +1102,7 @@
   "signals": [
     {"id": "YCROSS_VSS_V2", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
-{ "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "1F42"}, "freq": 5, "filter": { "from": 2022 },
+{ "hdr": "7D2", "rax": "7DA", "cmd": {"22": "1F42"}, "freq": 5, "filter": { "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "YCROSS_12V_BAT_V_SMOOTHED", "path": "Battery", "fmt": { "len": 16, "max": 65.53, "div": 1000, "unit": "volts" }, "name": "12V battery voltage smoothed"}
   ]},

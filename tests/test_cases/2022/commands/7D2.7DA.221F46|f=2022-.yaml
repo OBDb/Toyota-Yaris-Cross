@@ -4,5 +4,8 @@ test_cases:
     YCROSS_AAT_7D2: null
   response: 7DA04621F4600
 - expected_values:
+    YCROSS_AAT_7D2: 6
+  response: 7DA04621F462E
+- expected_values:
     YCROSS_AAT_7D2: 26
   response: 7DA04621F4642

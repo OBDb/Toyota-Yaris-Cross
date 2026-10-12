@@ -10,6 +10,21 @@ test_cases:
     7582A10086210040000
     7582A21000000000000
 - expected_values:
+    YCROSS_TT_4: 12
+  response: |-
+    7582A10086210040000
+    7582A21003400000000
+- expected_values:
+    YCROSS_TT_3: 10
+  response: |-
+    7582A10086210040000
+    7582A21320000000000
+- expected_values:
+    YCROSS_TT_2: 10
+  response: |-
+    7582A10086210040032
+    7582A21000000000000
+- expected_values:
     YCROSS_TT_1: 8
     YCROSS_TT_2: 8
     YCROSS_TT_3: 7

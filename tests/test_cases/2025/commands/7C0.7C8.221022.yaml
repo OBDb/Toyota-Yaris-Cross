@@ -15,5 +15,5 @@ test_cases:
     YCROSS_FUEL_LEVEL: 5.12
   response: 7C8056210220200
 - expected_values:
-    YCROSS_FUEL_LEVEL: null
-  response: 7C805621022FFFF
+    YCROSS_FUEL_LEVEL: 33.28
+  response: 7C8056210220D00

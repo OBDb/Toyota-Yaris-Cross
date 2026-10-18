@@ -1,0 +1,20 @@
+command_id: 7C4.7CC.221001|fc=1
+test_cases:
+- expected_values:
+    YCROSS_CABIN_T_V2: 23.94
+  response: 7CC05621001095A
+- expected_values:
+    YCROSS_CABIN_T_V2: 24.02
+  response: 7CC056210010962
+- expected_values:
+    YCROSS_CABIN_T_V2: 24.05
+  response: 7CC056210010965
+- expected_values:
+    YCROSS_CABIN_T_V2: 24.07
+  response: 7CC056210010967
+- expected_values:
+    YCROSS_CABIN_T_V2: 24.11
+  response: 7CC05621001096B
+- expected_values:
+    YCROSS_CABIN_T_V2: 24.13
+  response: 7CC05621001096D

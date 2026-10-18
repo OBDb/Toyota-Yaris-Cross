@@ -1,0 +1,5 @@
+command_id: 7B0.7B8.22104C|fc=1
+test_cases:
+- expected_values:
+    YCROSS_BRAKE_STROKE: 0
+  response: 7B80462104C00

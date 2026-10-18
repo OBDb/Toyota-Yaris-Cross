@@ -1,6 +1,9 @@
 command_id: 7C0.7C8.221021
 test_cases:
 - expected_values:
+    YCROSS_BATTERY_VOLTAGE_7C0: 13.3
+  response: 7C80462102185
+- expected_values:
     YCROSS_BATTERY_VOLTAGE_7C0: 13.4
   response: 7C80462102186
 - expected_values:

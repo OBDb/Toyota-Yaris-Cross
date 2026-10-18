@@ -1,0 +1,20 @@
+command_id: 7D2.7DA.221002|f=2022-
+test_cases:
+- expected_values:
+    YCROSS_AUX_BAT_V: 13.45904
+  response: 7DA056210022B18
+- expected_values:
+    YCROSS_AUX_BAT_V: 13.46392
+  response: 7DA056210022B1C
+- expected_values:
+    YCROSS_AUX_BAT_V: 13.4688
+  response: 7DA056210022B20
+- expected_values:
+    YCROSS_AUX_BAT_V: 13.47368
+  response: 7DA056210022B24
+- expected_values:
+    YCROSS_AUX_BAT_V: 13.47856
+  response: 7DA056210022B28
+- expected_values:
+    YCROSS_AUX_BAT_V: 13.48344
+  response: 7DA056210022B2C

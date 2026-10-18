@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     YCROSS_12V_T: 11.3
   response: 7DA056215F80201
+- expected_values:
+    YCROSS_12V_T: 25.6
+  response: 7DA056215F80290

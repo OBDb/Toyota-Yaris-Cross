@@ -10,5 +10,5 @@ test_cases:
     YCROSS_ODO_V2_V2: 3840
   response: 7DA0762010301000F00
 - expected_values:
-    YCROSS_ODO_V2_V2: 10225
-  response: 7DA07620103010027F1
+    YCROSS_ODO_V2_V2: 10240
+  response: 7DA0762010301002800

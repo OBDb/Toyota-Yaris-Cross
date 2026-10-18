@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     YCROSS_EOT_V2: 13
   response: 70804621F5C35
+- expected_values:
+    YCROSS_EOT_V2: 65
+  response: 70804621F5C69

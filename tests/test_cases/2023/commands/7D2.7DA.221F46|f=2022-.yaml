@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     YCROSS_AAT_7D2: 8
   response: 7DA04621F4630
+- expected_values:
+    YCROSS_AAT_7D2: 14
+  response: 7DA04621F4636

@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.2210A7|f=2022-
+test_cases:
+- expected_values:
+    YCROSS_BOOSTING_CONV_T_HI: 26
+    YCROSS_BOOSTING_CONV_T_LO: 26
+  response: 7DA076210A742424C5D
+- expected_values:
+    YCROSS_BOOSTING_CONV_T_HI: 27
+    YCROSS_BOOSTING_CONV_T_LO: 26
+  response: 7DA076210A743424C5D
+- expected_values:
+    YCROSS_BOOSTING_CONV_T_HI: 27
+    YCROSS_BOOSTING_CONV_T_LO: 27
+  response: 7DA076210A743434C5D

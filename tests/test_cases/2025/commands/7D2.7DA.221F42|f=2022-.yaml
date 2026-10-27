@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     YCROSS_12V_BAT_V_SMOOTHED: 14.204
   response: 7DA05621F42377C
+- expected_values:
+    YCROSS_12V_BAT_V_SMOOTHED: 13.789
+  response: 7DA05621F4235DD
+- expected_values:
+    YCROSS_12V_BAT_V_SMOOTHED: 13.828
+  response: 7DA05621F423604

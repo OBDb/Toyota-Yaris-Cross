@@ -1,0 +1,8 @@
+command_id: 7C4.7CC.222801|fc=1
+test_cases:
+- expected_values:
+    YCROSS_BLOWER: 1
+  response: 7CC0462280101
+- expected_values:
+    YCROSS_BLOWER: 4
+  response: 7CC0462280104

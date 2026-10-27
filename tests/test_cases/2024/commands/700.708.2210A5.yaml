@@ -1,0 +1,12 @@
+command_id: 700.708.2210A5
+test_cases:
+- expected_values:
+    YCROSS_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000016
+    7082100630000000000
+- expected_values:
+    YCROSS_MISFIRE_CNT: 0
+  response: |-
+    70810086210A50000DC
+    70821006B0000000000

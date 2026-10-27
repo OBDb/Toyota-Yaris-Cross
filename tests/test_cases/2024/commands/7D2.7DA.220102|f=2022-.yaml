@@ -1,0 +1,12 @@
+command_id: 7D2.7DA.220102|f=2022-
+test_cases:
+- expected_values:
+    YCROSS_KEY_CYCLE: 2832
+  response: |-
+    7DA100A6201020B1000
+    7DA2102AF0A01000000
+- expected_values:
+    YCROSS_KEY_CYCLE: 2832
+  response: |-
+    7DA100A6201020B1000
+    7DA2103F39501000000

@@ -1,0 +1,14 @@
+command_id: 700.708.221043
+test_cases:
+- expected_values:
+    YCROSS_EWP_RPM: 1675
+    YCROSS_EWP_TARGET_VSS: 1625
+  response: '708056210434143'
+- expected_values:
+    YCROSS_EWP_RPM: 1675
+    YCROSS_EWP_TARGET_VSS: 1650
+  response: '708056210434243'
+- expected_values:
+    YCROSS_EWP_RPM: 1975
+    YCROSS_EWP_TARGET_VSS: 1975
+  response: 708056210434F4F

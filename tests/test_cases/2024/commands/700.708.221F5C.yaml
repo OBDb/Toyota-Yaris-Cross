@@ -1,0 +1,14 @@
+command_id: 700.708.221F5C
+test_cases:
+- expected_values:
+    YCROSS_EOT_V2: 24
+  response: 70804621F5C40
+- expected_values:
+    YCROSS_EOT_V2: 28
+  response: 70804621F5C44
+- expected_values:
+    YCROSS_EOT_V2: 30
+  response: 70804621F5C46
+- expected_values:
+    YCROSS_EOT_V2: 32
+  response: 70804621F5C48

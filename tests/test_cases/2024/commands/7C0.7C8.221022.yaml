@@ -1,0 +1,11 @@
+command_id: 7C0.7C8.221022
+test_cases:
+- expected_values:
+    YCROSS_FUEL_LEVEL: 8.95
+  response: 7C805621022037F
+- expected_values:
+    YCROSS_FUEL_LEVEL: 8.96
+  response: 7C8056210220380
+- expected_values:
+    YCROSS_FUEL_LEVEL: 8.97
+  response: 7C8056210220381

@@ -1,0 +1,11 @@
+command_id: 700.708.221062
+test_cases:
+- expected_values:
+    YCROSS_EXHAUST_VVT_OCV_CONTROL_DUTY: 10.43107
+  response: 7080562106206AD
+- expected_values:
+    YCROSS_EXHAUST_VVT_OCV_CONTROL_DUTY: 10.58366
+  response: 7080562106206C6
+- expected_values:
+    YCROSS_EXHAUST_VVT_OCV_CONTROL_DUTY: 23.60876
+  response: 708056210620F1C

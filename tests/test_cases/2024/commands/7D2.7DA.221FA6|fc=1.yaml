@@ -1,0 +1,5 @@
+command_id: 7D2.7DA.221FA6|fc=1
+test_cases:
+- expected_values:
+    YCROSS_ODO_1FA6: 27098.7
+  response: 7DA07621FA60004228B

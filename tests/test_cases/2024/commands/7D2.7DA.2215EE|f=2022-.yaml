@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.2215EE|f=2022-
+test_cases:
+- expected_values:
+    YCROSS_12V_V_V2: 14.1641
+  response: 7DA056215EE2D54
+- expected_values:
+    YCROSS_12V_V_V2: 14.1641
+  response: 7DA056215EE2D58

@@ -1,0 +1,5 @@
+command_id: 7B3.7BB.221004
+test_cases:
+- expected_values:
+    YCROSS_STEERING_ANGLE: 10.5
+  response: 7BB066210040007FB

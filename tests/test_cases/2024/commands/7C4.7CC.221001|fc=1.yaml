@@ -1,0 +1,8 @@
+command_id: 7C4.7CC.221001|fc=1
+test_cases:
+- expected_values:
+    YCROSS_CABIN_T_V2: 14.01
+  response: 7CC056210010579
+- expected_values:
+    YCROSS_CABIN_T_V2: 14.67
+  response: 7CC0562100105BB

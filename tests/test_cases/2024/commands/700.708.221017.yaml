@@ -1,0 +1,11 @@
+command_id: 700.708.221017
+test_cases:
+- expected_values:
+    YCROSS_INJ_VOL: 0
+  response: '708056210170000'
+- expected_values:
+    YCROSS_INJ_VOL: 0.66375
+  response: 70805621017084C
+- expected_values:
+    YCROSS_INJ_VOL: 0.80375
+  response: 708056210170A0C

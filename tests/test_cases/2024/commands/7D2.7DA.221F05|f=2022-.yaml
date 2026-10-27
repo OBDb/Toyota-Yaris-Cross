@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F05|f=2022-
+test_cases:
+- expected_values:
+    YCROSS_COOL_T: 41
+  response: 7DA04621F0551
+- expected_values:
+    YCROSS_COOL_T: 42
+  response: 7DA04621F0552

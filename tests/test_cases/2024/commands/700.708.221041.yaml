@@ -1,0 +1,14 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    YCROSS_ECT_IGN: 12.5
+    YCROSS_ECT_INIT: 12.5
+  response: '708056210415454'
+- expected_values:
+    YCROSS_ECT_IGN: 12.5
+    YCROSS_ECT_INIT: 42.5
+  response: '708056210415484'
+- expected_values:
+    YCROSS_ECT_IGN: 12.5
+    YCROSS_ECT_INIT: 43.75
+  response: '708056210415486'

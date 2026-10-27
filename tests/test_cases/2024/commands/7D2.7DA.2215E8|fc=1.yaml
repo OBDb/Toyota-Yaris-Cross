@@ -1,0 +1,10 @@
+command_id: 7D2.7DA.2215E8|fc=1
+test_cases:
+- expected_values:
+    YCROSS_12V_AH_IN: 955.5
+    YCROSS_12V_AH_OUT: 23.7
+    YCROSS_READY_HOURS: 58
+  response: |-
+    7DA10146215E8000025
+    7DA2153000000ED7E80
+    7DA22003A00000BA220

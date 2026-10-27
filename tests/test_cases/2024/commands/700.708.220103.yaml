@@ -1,0 +1,5 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    YCROSS_ENG_ODO: 16838
+  response: 70807620103020041C6

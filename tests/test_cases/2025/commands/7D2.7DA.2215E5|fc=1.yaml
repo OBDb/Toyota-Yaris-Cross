@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     YCROSS_12V_CAP: 30.5
   response: 7DA046215E53D
+- expected_values:
+    YCROSS_12V_CAP: 26.5
+  response: 7DA046215E535

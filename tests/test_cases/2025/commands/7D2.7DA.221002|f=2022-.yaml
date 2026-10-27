@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     YCROSS_AUX_BAT_V: 14.47896
   response: 7DA056210022E5C
+- expected_values:
+    YCROSS_AUX_BAT_V: 14.1032
+  response: 7DA056210022D28

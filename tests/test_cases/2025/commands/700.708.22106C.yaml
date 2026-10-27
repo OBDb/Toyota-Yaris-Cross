@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     YCROSS_DIST_SINCE_BAT_DISC: 9218
   response: 7080562106C2402
+- expected_values:
+    YCROSS_DIST_SINCE_BAT_DISC: 25731
+  response: 7080562106C6483

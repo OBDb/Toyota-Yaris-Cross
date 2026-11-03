@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     YCROSS_12V_V: 14.37496
   response: '708056210022E00'
+- expected_values:
+    YCROSS_12V_V: 14.10641
+  response: 708056210022D24
+- expected_values:
+    YCROSS_12V_V: 14.06735
+  response: 708056210022D04

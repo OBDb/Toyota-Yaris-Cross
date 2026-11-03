@@ -16,3 +16,7 @@ test_cases:
     YCROSS_HVBAT_SOC_MAX: 75
     YCROSS_HVBAT_SOC_MIN: 42.5
   response: 7DA0662106C909655
+- expected_values:
+    YCROSS_HVBAT_SOC_MAX: 42.5
+    YCROSS_HVBAT_SOC_MIN: 35
+  response: 7DA0662106C475546

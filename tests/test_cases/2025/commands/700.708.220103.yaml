@@ -1,8 +1,10 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    YCROSS_ENG_ODO: 9753
+    YCROSS_ENG_ODO_RAW: 9753
+    YCROSS_ENG_ODO_UNIT: KM
   response: '7080762010301002619'
 - expected_values:
-    YCROSS_ENG_ODO: 9767
+    YCROSS_ENG_ODO_RAW: 9767
+    YCROSS_ENG_ODO_UNIT: KM
   response: '7080762010301002627'

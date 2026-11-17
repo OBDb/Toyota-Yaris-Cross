@@ -1,5 +1,6 @@
 command_id: 747.74F.220103|fc=1,f=2022-
 test_cases:
 - expected_values:
-    YCROSS_ODO_V6: 13246
+    YCROSS_ODO_V6_RAW: 13246
+    YCROSS_ODO_V6_UNIT: MI
   response: 74F07620103020033BE

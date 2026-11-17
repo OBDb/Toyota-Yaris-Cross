@@ -1404,11 +1404,11 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "54"}, "freq": 0.25,
   "signals": [
-    {"id": "YCROSS_RPM_CYL_1",      "path": "Movement", "fmt": {           "len": 16, "max": 51199, "mul": 25, "div": 32, "unit": "rpm" }, "name": "Engine speed of cylinder 1"},
-    {"id": "YCROSS_RPM_CYL_2",      "path": "Movement", "fmt": {"bix": 16, "len": 16, "max": 51199, "mul": 25, "div": 32, "unit": "rpm" }, "name": "Engine speed of cylinder 2"},
-    {"id": "YCROSS_RPM_CYL_3",      "path": "Movement", "fmt": {"bix": 32, "len": 16, "max": 51199, "mul": 25, "div": 32, "unit": "rpm" }, "name": "Engine speed of cylinder 3"},
-    {"id": "YCROSS_RPM_CYL_4",      "path": "Movement", "fmt": {"bix": 48, "len": 16, "max": 51199, "mul": 25, "div": 32, "unit": "rpm" }, "name": "Engine speed of cylinder 4"},
-    {"id": "YCROSS_AV_RPM_ALL_CYL", "path": "Movement", "fmt": {"bix": 64, "len": 16, "max": 51199, "mul": 25, "div": 32, "unit": "rpm" }, "name": "Average engine speed of all cylinders", "suggestedMetric": "engineSpeed"}
+    {"id": "YCROSS_RPM_CYL_1",      "path": "Movement", "fmt": {           "len": 16, "max": 51199, "mul": 25, "div": 32, "nullmax": 51199, "unit": "rpm" }, "name": "Engine speed of cylinder 1"},
+    {"id": "YCROSS_RPM_CYL_2",      "path": "Movement", "fmt": {"bix": 16, "len": 16, "max": 51199, "mul": 25, "div": 32, "nullmax": 51199, "unit": "rpm" }, "name": "Engine speed of cylinder 2"},
+    {"id": "YCROSS_RPM_CYL_3",      "path": "Movement", "fmt": {"bix": 32, "len": 16, "max": 51199, "mul": 25, "div": 32, "nullmax": 51199, "unit": "rpm" }, "name": "Engine speed of cylinder 3"},
+    {"id": "YCROSS_RPM_CYL_4",      "path": "Movement", "fmt": {"bix": 48, "len": 16, "max": 51199, "mul": 25, "div": 32, "nullmax": 51199, "unit": "rpm" }, "name": "Engine speed of cylinder 4"},
+    {"id": "YCROSS_AV_RPM_ALL_CYL", "path": "Movement", "fmt": {"bix": 64, "len": 16, "max": 51199, "mul": 25, "div": 32, "nullmax": 51199, "unit": "rpm" }, "name": "Average engine speed of all cylinders", "suggestedMetric": "engineSpeed"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "81"}, "freq": 0.25,
   "signals": [

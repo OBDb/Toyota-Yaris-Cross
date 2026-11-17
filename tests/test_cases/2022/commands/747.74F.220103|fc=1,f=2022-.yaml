@@ -1,17 +1,22 @@
 command_id: 747.74F.220103|fc=1,f=2022-
 test_cases:
 - expected_values:
-    YCROSS_ODO_V6: 58464
+    YCROSS_ODO_V6_RAW: 58464
+    YCROSS_ODO_V6_UNIT: KM
   response: 74F076201030100E460
 - expected_values:
-    YCROSS_ODO_V6: 63231
+    YCROSS_ODO_V6_RAW: 63231
+    YCROSS_ODO_V6_UNIT: KM
   response: 74F076201030100F6FF
 - expected_values:
-    YCROSS_ODO_V6: 63232
+    YCROSS_ODO_V6_RAW: 63232
+    YCROSS_ODO_V6_UNIT: KM
   response: 74F076201030100F700
 - expected_values:
-    YCROSS_ODO_V6: 63744
+    YCROSS_ODO_V6_RAW: 63744
+    YCROSS_ODO_V6_UNIT: KM
   response: 74F076201030100F900
 - expected_values:
-    YCROSS_ODO_V6: 70943
+    YCROSS_ODO_V6_RAW: 70943
+    YCROSS_ODO_V6_UNIT: KM
   response: 74F076201030101151F

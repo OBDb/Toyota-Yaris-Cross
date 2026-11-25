@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.221040|f=2022-
+test_cases:
+- expected_values:
+    YCROSS_TRANSAXLE_OIL_T: 36
+  response: 7DA06621040BBA04C
+- expected_values:
+    YCROSS_TRANSAXLE_OIL_T: 36
+  response: 7DA06621040BC004C
+- expected_values:
+    YCROSS_TRANSAXLE_OIL_T: 35
+  response: 7DA06621040BCB04B
+- expected_values:
+    YCROSS_TRANSAXLE_OIL_T: 34
+  response: 7DA06621040BE104A

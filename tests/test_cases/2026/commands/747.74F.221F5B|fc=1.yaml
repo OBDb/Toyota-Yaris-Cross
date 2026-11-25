@@ -1,0 +1,14 @@
+command_id: 747.74F.221F5B|fc=1
+test_cases:
+- expected_values:
+    YCROSS_SOC_747: 29.41176
+  response: 74F04621F5B4B
+- expected_values:
+    YCROSS_SOC_747: 30.58824
+  response: 74F04621F5B4E
+- expected_values:
+    YCROSS_SOC_747: 34.90196
+  response: 74F04621F5B59
+- expected_values:
+    YCROSS_SOC_747: 39.21569
+  response: 74F04621F5B64

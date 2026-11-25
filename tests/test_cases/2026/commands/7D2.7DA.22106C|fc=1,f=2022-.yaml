@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.22106C|fc=1,f=2022-
+test_cases:
+- expected_values:
+    YCROSS_HVBAT_SOC_MAX: 39
+    YCROSS_HVBAT_SOC_MIN: 29
+  response: 7DA0662106C4E4E3A
+- expected_values:
+    YCROSS_HVBAT_SOC_MAX: 39
+    YCROSS_HVBAT_SOC_MIN: 30
+  response: 7DA0662106C4E4E3C
+- expected_values:
+    YCROSS_HVBAT_SOC_MAX: 41
+    YCROSS_HVBAT_SOC_MIN: 29
+  response: 7DA0662106C4E523A

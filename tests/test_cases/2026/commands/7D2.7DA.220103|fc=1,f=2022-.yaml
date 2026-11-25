@@ -1,0 +1,6 @@
+command_id: 7D2.7DA.220103|fc=1,f=2022-
+test_cases:
+- expected_values:
+    YCROSS_ODO_V2_V2_RAW: 15996
+    YCROSS_ODO_V2_V2_UNIT: KM
+  response: 7DA0762010301003E7C

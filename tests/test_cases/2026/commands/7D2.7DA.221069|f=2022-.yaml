@@ -1,0 +1,6 @@
+command_id: 7D2.7DA.221069|f=2022-
+test_cases:
+- expected_values:
+    YCROSS_MOTOR_REGENERATIVE: 0
+    YCROSS_MOTOR_REGENERATIVE_BREAK: 0
+  response: 7DA0762106980008000

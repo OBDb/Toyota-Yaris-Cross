@@ -1,0 +1,5 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    YCROSS_DIST_SINCE_BAT_DISC: 15210
+  response: 7080562106C3B6A

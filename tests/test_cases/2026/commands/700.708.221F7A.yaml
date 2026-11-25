@@ -1,0 +1,22 @@
+command_id: 700.708.221F7A
+test_cases:
+- expected_values:
+    YCROSS_DPF_DIFF_P: 0.02
+  response: |-
+    708100A621F7A010002
+    7082100000000000000
+- expected_values:
+    YCROSS_DPF_DIFF_P: 0.35
+  response: |-
+    708100A621F7A010023
+    7082100000000000000
+- expected_values:
+    YCROSS_DPF_DIFF_P: 1.76
+  response: |-
+    708100A621F7A0100B0
+    7082100000000000000
+- expected_values:
+    YCROSS_DPF_DIFF_P: -0.01
+  response: |-
+    708100A621F7A01FFFF
+    7082100000000000000

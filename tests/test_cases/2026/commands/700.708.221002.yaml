@@ -1,0 +1,14 @@
+command_id: 700.708.221002
+test_cases:
+- expected_values:
+    YCROSS_12V_V: 13.43747
+  response: 708056210022B00
+- expected_values:
+    YCROSS_12V_V: 13.457
+  response: 708056210022B10
+- expected_values:
+    YCROSS_12V_V: 13.47165
+  response: 708056210022B1C
+- expected_values:
+    YCROSS_12V_V: 13.47653
+  response: 708056210022B20

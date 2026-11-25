@@ -1,0 +1,5 @@
+command_id: 7D2.7DA.221060|fc=1
+test_cases:
+- expected_values:
+    YCROSS_APP_V2: 0
+  response: 7DA0462106000

@@ -1,0 +1,8 @@
+command_id: 7C4.7CC.221002|fc=1
+test_cases:
+- expected_values:
+    YCROSS_AAT_7C4_V2: 16.5
+  response: 7CC056210020672
+- expected_values:
+    YCROSS_AAT_7C4_V2: 16.6
+  response: 7CC05621002067C

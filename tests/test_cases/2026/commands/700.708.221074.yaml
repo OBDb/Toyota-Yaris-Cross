@@ -1,0 +1,11 @@
+command_id: 700.708.221074
+test_cases:
+- expected_values:
+    YCROSS_EOP: 0
+  response: '708056210740000'
+- expected_values:
+    YCROSS_EOP: 286.79688
+  response: '708056210740E57'
+- expected_values:
+    YCROSS_EOP: 320.3125
+  response: '708056210741004'

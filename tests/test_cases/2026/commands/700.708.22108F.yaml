@@ -1,0 +1,8 @@
+command_id: 700.708.22108F
+test_cases:
+- expected_values:
+    YCROSS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 92.44137
+  response: 7080562108F24FA
+- expected_values:
+    YCROSS_EXHAUST_VVT_OVER_ADV_LEARN_B1: 92.88083
+  response: 7080562108F2527

@@ -1,0 +1,11 @@
+command_id: 700.708.221018
+test_cases:
+- expected_values:
+    YCROSS_INJECTOR_PORT: 0
+  response: '708056210180000'
+- expected_values:
+    YCROSS_INJECTOR_PORT: 4.642
+  response: '708056210181222'
+- expected_values:
+    YCROSS_INJECTOR_PORT: 4.713
+  response: '708056210181269'

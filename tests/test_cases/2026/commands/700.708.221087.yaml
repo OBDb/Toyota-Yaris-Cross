@@ -1,0 +1,11 @@
+command_id: 700.708.221087
+test_cases:
+- expected_values:
+    YCROSS_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0.66397
+  response: '708056210870044'
+- expected_values:
+    YCROSS_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 14.87095
+  response: 7080562108705F3
+- expected_values:
+    YCROSS_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 14.9393
+  response: 7080562108705FA

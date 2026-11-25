@@ -1,0 +1,11 @@
+command_id: 700.708.221088
+test_cases:
+- expected_values:
+    YCROSS_EXHAUST_VVT_ANGLE_B1: 0
+  response: '708056210880000'
+- expected_values:
+    YCROSS_EXHAUST_VVT_ANGLE_B1: 22.63353
+  response: 70805621088090E
+- expected_values:
+    YCROSS_EXHAUST_VVT_ANGLE_B1: 23.08268
+  response: 70805621088093C

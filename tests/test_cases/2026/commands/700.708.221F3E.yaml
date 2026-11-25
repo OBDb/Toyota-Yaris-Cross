@@ -1,0 +1,11 @@
+command_id: 700.708.221F3E
+test_cases:
+- expected_values:
+    YCROSS_CAT_T_12: 114.8
+  response: 70805621F3E060C
+- expected_values:
+    YCROSS_CAT_T_12: 188.1
+  response: 70805621F3E08E9
+- expected_values:
+    YCROSS_CAT_T_12: 300.1
+  response: 70805621F3E0D49
